@@ -1,0 +1,18 @@
+body{
+  text-align:center;
+}
+.prop{
+  height:200px;
+  width:520px;
+  border:1px solid black;
+  margin-top:50px; 
+  margin-left:30%;
+  
+}
+
+.para{
+  font-size: 30px;
+
+};
+
+
